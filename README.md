@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Jaklees
-
-My name is Jack Klees. I graduated from Santa Clara University with a bachelor's in Computer Science and an emphasis in Cybersecurity.
+- 👋 Hi, I’m (@Jaklees) Jack Klees. I graduated from Santa Clara University with a bachelor's in Computer Science and an emphasis in Computer Security.
 
 <!---
 Jaklees/Jaklees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
